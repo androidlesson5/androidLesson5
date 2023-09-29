@@ -14,4 +14,8 @@ class MainActivity : AppCompatActivity() {
     private fun showLog(){
         Log.d("TAG","Hello Alibek!")
     }
+
+    private fun showLog1(){
+        Log.d("TAG","Hello World!")
+    }
 }
